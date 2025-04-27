@@ -1,0 +1,7 @@
+C:\Users\lucia\Documents\Proyecto Final Carrera\Prueba\bin\Release\net8.0\publish\Prueba.exe
+C:\Users\lucia\Documents\Proyecto Final Carrera\Prueba\bin\Release\net8.0\publish\appsettings.Development.json
+C:\Users\lucia\Documents\Proyecto Final Carrera\Prueba\bin\Release\net8.0\publish\appsettings.json
+C:\Users\lucia\Documents\Proyecto Final Carrera\Prueba\bin\Release\net8.0\publish\Prueba.dll
+C:\Users\lucia\Documents\Proyecto Final Carrera\Prueba\bin\Release\net8.0\publish\Prueba.deps.json
+C:\Users\lucia\Documents\Proyecto Final Carrera\Prueba\bin\Release\net8.0\publish\Prueba.runtimeconfig.json
+C:\Users\lucia\Documents\Proyecto Final Carrera\Prueba\bin\Release\net8.0\publish\Prueba.pdb
